@@ -1,0 +1,20 @@
+{
+  "name": "queue-blocking",
+  "version": "1.0.0",
+  "description": "This is used for sending like an alarm email. You might get trigger in every 20 sec. But you want to receive email in every 15 mins. Queue function will ignore other emails between beginnig of getting trigger first and the latest after 15 min.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inceabdullah/queue-blocking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inceabdullah/queue-blocking/issues"
+  },
+  "homepage": "https://github.com/inceabdullah/queue-blocking#readme"
+}
