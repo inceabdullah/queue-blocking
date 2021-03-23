@@ -1,5 +1,7 @@
 ## Queue with Blocking
 
+This is used for sending like an alarm email. You might get trigger in every 20 sec. But you want to receive email in every 15 mins. Queue function will ignore other emails between beginnig of getting trigger first and the latest after 15 min.
+
 ### Get Queue
 
 ```javascript
